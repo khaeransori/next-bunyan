@@ -1,0 +1,15 @@
+{
+  "name": "next-bunyan",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Khaer Ansori <khaer.ansori@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khaeransori/next-bunyan"
+  },
+  "peerDependencies": {
+    "browser-bunyan": "^1.3.0",
+    "bunyan": "^1.8.12"
+  }
+}
